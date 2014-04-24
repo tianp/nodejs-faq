@@ -11,6 +11,11 @@ Node.js FAQ
 
 > Bukan, meskipun menggunakan Google V8 Engine, Node.js tidak memiliki afiliasi dengan Google Inc. Pengembangan Node.js sejak awal disponsori oleh Joyent, yang juga sebagai pemilik merek dagang Node.js
 
+**Apakah ada dokumentasi resmi Node.js?**
+
+> Ya, anda dapat membaca dokumentasi resmi Node.js disini: http://nodejs.org/api/
+
+
 **Apakah Node.js dapat berjalan di browser?**
 
 > Tidak, Node.js hanya dapat berjalan di sisi server. Namun Node.js dapat membuat HTTP/web server yang dapat diakses oleh browser seperti halnya PHP dan Apache.
@@ -19,13 +24,23 @@ Node.js FAQ
 
 > Anda dapat men-download *package* Node.js dan melihat panduan untuk meng-install Node.js sesuai sistem operasi komputer Anda disini: http://nodejs.org/download/
 
-**Apakah ada dokumentasi resmi Node.js?**
 
-> Ya, anda dapat membaca dokumentasi resmi Node.js disini: http://nodejs.org/api/
+**Bagaimana saya menginstall module Node.js?**
+
+> Anda, bisa menginstall module Node.js dengan menjalankan perintah ```npm install nama_module``` pada command line, pastikan Anda berada pada direktori project karena ```npm``` akan membuat direktori ```node_modules``` pada direktori dimana Anda melakukan ```npm install```.
 
 **Apa itu** ```npm```**?**
 
 > ```npm``` adalah Node Package Module. Digunakan sebagai distribusi modul-modul Node.js yang dipublish oleh komunitas Node.js.
+
+**Dimana saya dapat mencari module-module Node.js?**
+
+> Anda bisa mencari module Node.js sesuai kebutuhan anda di: http://npmjs.org
+
+**Apakah koneksi internet selalu dibutuhkan untuk menginstall module Node.js?**
+
+> Ya, untuk menginstall module Node.js pastikan komputer Anda terkoneksi dengan internet.
+
 
 **Apakah saya bisa menjalankan Node.js pada platform Windows?**
 
