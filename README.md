@@ -1,8 +1,9 @@
 Node.js FAQ
 ==========
+**Apa itu Node.js?**
+> Node.js adalah *asynchronous* I/O framework berbasis *event* yang menggunakan Google V8 Javascript Engine yang berjalan di sisi server.
 
-
-**Apa itu Google V8 Engine?**
+**Apa itu Google V8 Javascript Engine?**
 
 > Google V8 Engine adalah open source Javascript engine milik Google yang juga digunakan pada browser Google Chrome.
 
