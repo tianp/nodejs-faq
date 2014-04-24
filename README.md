@@ -24,7 +24,6 @@ Node.js FAQ
 
 > Anda dapat men-download *package* Node.js dan melihat panduan untuk meng-install Node.js sesuai sistem operasi komputer Anda disini: http://nodejs.org/download/
 
-
 **Bagaimana saya menginstall module Node.js?**
 
 > Anda, bisa menginstall module Node.js dengan menjalankan perintah ```npm install nama_module``` pada command line, pastikan Anda berada pada direktori project karena ```npm``` akan membuat direktori ```node_modules``` pada direktori dimana Anda melakukan ```npm install```.
@@ -41,6 +40,13 @@ Node.js FAQ
 
 > Ya, untuk menginstall module Node.js pastikan komputer Anda terkoneksi dengan internet.
 
+**Bagaimana saya menggunakan module Node.js?**
+
+> Untuk menggunakan module, Anda harus mengimport module tersebut terlebih dahulu dengan fungsi seperti ini: ```var module = require('nama_module')``` lalu variabel ```module``` dapat digunakan pada file dimana anda mengimport file tersebut.
+
+**Apakah saya harus melakukan import/require pada setiap file yang menggunakan module?**
+
+> Ya, namun module tersebut akan ter-cache saat pertama kali module dibaca (require).
 
 **Apakah saya bisa menjalankan Node.js pada platform Windows?**
 
