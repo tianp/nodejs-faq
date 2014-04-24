@@ -1,4 +1,4 @@
-Node.js FAQ -- Pertanyaan-pertanyaan seputar Node.js
+Node.js FAQ
 ==========
 
 
