@@ -8,12 +8,18 @@ Apa itu Google V8 Engine?
 > Google V8 Engine adalah open source Javascript engine milik Google yang juga digunakan pada browser Google Chrome.
 
 
+
+
+
 Apakah Node.js salah satu produk Google?
 
 
 > Bukan, meskipun menggunakan Google V8 Engine, Node.js tidak memiliki afiliasi dengan Google Inc. Pengembangan Node.js sejak awal disponsori oleh Joyent, yang juga sebagai pemilik merek dagang Node.js
-
-
+  
+  
+  
+  
+  
 Apa itu ```npm```?
 
 > NPM adalah singkatan dari Node Package Module. Digunakan sebagai distribusi modul-modul Node.js yang dibuat oleh komunitas.
