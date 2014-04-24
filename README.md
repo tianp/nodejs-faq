@@ -11,9 +11,21 @@ Node.js FAQ
 
 > Bukan, meskipun menggunakan Google V8 Engine, Node.js tidak memiliki afiliasi dengan Google Inc. Pengembangan Node.js sejak awal disponsori oleh Joyent, yang juga sebagai pemilik merek dagang Node.js
 
+**Apakah Node.js dapat berjalan di browser?**
+
+> Tidak, Node.js hanya dapat berjalan di sisi server. Namun Node.js dapat membuat HTTP/web server yang dapat diakses oleh browser seperti halnya PHP dan Apache.
+
+**Bagaimana saya menginstall Node.js di komputer saya?**
+
+> Anda dapat men-download *package* Node.js dan melihat panduan untuk meng-install Node.js sesuai sistem operasi komputer Anda disini: http://nodejs.org/download/
+
+**Apakah ada dokumentasi resmi Node.js?**
+
+> Ya, anda dapat membaca dokumentasi resmi Node.js disini: http://nodejs.org/api/
+
 **Apa itu** ```npm```**?**
 
-> ```npm``` adalah Node Package Module. Digunakan sebagai distribusi modul-modul Node.js yang dipublish oleh komunitas.
+> ```npm``` adalah Node Package Module. Digunakan sebagai distribusi modul-modul Node.js yang dipublish oleh komunitas Node.js.
 
 **Apakah saya bisa menjalankan Node.js pada platform Windows?**
 
